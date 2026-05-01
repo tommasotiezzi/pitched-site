@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "<8U9RFQ4C56>.app.pitched.pitched",
+        "paths": [
+          "/invite/*",
+          "NOT /invite/web/*"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["<8U9RFQ4C56>.app.pitched.pitched"]
+  }
+}
