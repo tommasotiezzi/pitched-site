@@ -5,9 +5,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "app.pitched.pitched",
+      "package_name": "com.pitched.app",
       "sha256_cert_fingerprints": [
-        "<RELEASE_SHA256_FINGERPRINT>"
+        "4B:3D:31:15:BA:8A:B0:7C:C1:51:D9:EC:82:FE:77:CE:44:B6:65:28:16:AD:68:FE:FA:7E:A5:D5:F0:20:6C:B0"
       ]
     }
   }
